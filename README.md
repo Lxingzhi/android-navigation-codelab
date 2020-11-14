@@ -1,6 +1,4 @@
-## 这里是 北京 GDG Devfest 2020 Kotlin Codelab 项目
-
-# Android Navigation codelab
+# 这里是 北京 GDG Devfest 2020 Kotlin Codelab 项目
 
 Content: https://codelabs.developers.google.com/codelabs/android-navigation/
 
